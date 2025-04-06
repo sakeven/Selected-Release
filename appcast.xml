@@ -1,7 +1,18 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Selected-0.2.3-24</title>
+        <title>Selected's Changelog</title>
+        <item>
+            <title>0.2.4</title>
+            <pubDate>Sun, 06 Apr 2025 15:07:18 +0800</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.4/Selected-0.2.4-27.zip" length="79756024" type="application/octet-stream" sparkle:edSignature="9q6P0JZBu/6nN93fK8SxDfK8UKdVYfQOf8Ntcur1FXDZrXOo1prH2ss9ocgtV+dZsMGWshP0MYatJdMTAOiIBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.4/Selected27-24.delta" sparkle:deltaFrom="24" length="5557098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rToqwvia6qm5Ojp0GfgGY1ADxYfCsZjKH5ayE4GzwuDLBfxEeYmsWtwDeZbM7OrAdSVpyDKJKJzlMUkL3HzCCg=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>0.2.3</title>
             <pubDate>Thu, 15 Aug 2024 20:22:25 +0800</pubDate>
