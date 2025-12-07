@@ -1,7 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Selected's Changelog</title>
+        <title>elected's Changelog</title>
+        <item>
+            <title>0.2.5</title>
+            <pubDate>Sun, 07 Dec 2025 20:27:56 +0800</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.5/Selected-0.2.5-28.zip" length="83294047" type="application/octet-stream" sparkle:edSignature="96kjcOdVWh/xGGVjxa78ITYq2Rmi41bwbeu3ljfhoNZBT01ihkQT+v5J04RjDNhxKueeR/JAIdC6zD7GAMM6Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.5/Selected28-27.delta" sparkle:deltaFrom="27" length="8403082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tHdl3LeSIsceEoI5YXER7Ke1dkw+Hpts0JC9mABBgTBuulnM4bxRVyEmhJF4JVG4Hqb9HxpSyMxxFdu7ty1bCg=="/>
+                <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.5/Selected28-24.delta" sparkle:deltaFrom="24" length="9510994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CkKTwPAJcmjzQ9wPpYOzxLNqfJefB4YMjzwsj2XcSSIWthsxza+NJRoJury5XttnuoRE9wjks69Y/ivs62x2BQ=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>0.2.4</title>
             <pubDate>Sun, 06 Apr 2025 15:07:18 +0800</pubDate>
