@@ -3,6 +3,28 @@
     <channel>
         <title>elected's Changelog</title>
         <item>
+            <title>0.2.6</title>
+            <pubDate>Sun, 06 Sep 2026 21:51:12 +0800</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Requires macOS 15.0 or later. Supports Apple Silicon and Intel Macs.</p>
+<ul>
+<li>Refresh AI chat with file attachments, image understanding, and improved Markdown/LaTeX rendering.</li>
+<li>Update OpenAI model support and add web search support.</li>
+<li>Improve clipboard search, pinned items, image OCR, color handling, JSON formatting, and plain-text paste.</li>
+<li>Add visual plugin editing, version management, configurable options, and an action testing panel.</li>
+<li>Add initial PopClip import support for declarative URL actions, keyboard shortcuts, and plain-text macOS services, with a compatibility report before import.</li>
+<li>Complete English and Simplified Chinese localization.</li>
+<li>Unify settings and action interfaces, improve application-specific configuration, and refresh usage documentation.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.6/Selected-0.2.6-29.zip" length="87458730" type="application/octet-stream" sparkle:edSignature="SfL9K55mZnb9TgK2dSPofwZ/wq4R7coyl3amKBP/FpK6+cO5hQ3yRBAKcQkMRXJ1yFMXL0PNLve0S9hppwtIDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.6/Selected29-28.delta" sparkle:deltaFrom="28" length="8805686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pavwusTX9w6WwvrpwOrrpuregAOmDbxqLzUjfckya1O2zgLrVpWLDbrCloOQNVIzcnfGxnIE95Z3dylIiWSVCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.5</title>
             <pubDate>Sun, 07 Dec 2025 20:27:56 +0800</pubDate>
             <sparkle:version>28</sparkle:version>
