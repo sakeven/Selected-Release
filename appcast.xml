@@ -3,6 +3,25 @@
     <channel>
         <title>elected's Changelog</title>
         <item>
+            <title>0.2.7</title>
+            <pubDate>Mon, 07 Sep 2026 23:36:10 +0800</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Requires macOS 15.0 or later. Supports Apple Silicon and Intel Macs.</p>
+<ul>
+<li>Refresh clipboard history with colored content-type icons and improved preview styling.</li>
+<li>Show clearer link previews with the domain, full address, and an Open in Browser button.</li>
+<li>Make deletion available directly above the preview, alongside pinning, while keeping the full action menu on right-click.</li>
+<li>Improve text preview colors in light and dark appearances.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.7/Selected-0.2.7-30.zip" length="87469393" type="application/octet-stream" sparkle:edSignature="zzlA91vX5o0yxR1NPqNHBO9uYCDDmrJ85awaouefYB4KX38v5vuDY7CwRDGtFz61iWfaC9sw8ylMVbB3TbL4DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.7/Selected30-29.delta" sparkle:deltaFrom="29" length="1413038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="46oiZ71DLaLjgeu+V94pzQkT3kuD3/bruhpX8r1QkKzjMdJHi8aEcEmy+u5HidevloivFE4VL11pSebasSAZBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.6</title>
             <pubDate>Sun, 06 Sep 2026 21:51:12 +0800</pubDate>
             <sparkle:version>29</sparkle:version>
