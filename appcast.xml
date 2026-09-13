@@ -3,6 +3,27 @@
     <channel>
         <title>elected's Changelog</title>
         <item>
+            <title>0.2.8</title>
+            <pubDate>Sun, 13 Sep 2026 14:02:33 +0800</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Requires macOS 15.0 or later. Supports Apple Silicon and Intel Macs.</p>
+<ul>
+<li>Search apps, files, actions, and clipboard history in Spotlight, with grouped previews and category navigation.</li>
+<li>Navigate Spotlight results with the keyboard, with improved input method support and text action input handling.</li>
+<li>Refresh the app icon and menu bar icon.</li>
+<li>Show selection-action results in compact panels near the selected text.</li>
+<li>Preserve rich text, HTML formatting, and highlights in clipboard previews, with backgrounds that adapt to light and dark appearances.</li>
+<li>Store AI API keys in macOS Keychain and migrate existing saved keys automatically.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.8/Selected-0.2.8-31.zip" length="86449205" type="application/octet-stream" sparkle:edSignature="rNMUmOO/sfTaX3c3D23iYKUvQtbdGQT5Ypn8c+3OxkAWv3b5VV8BoPcdxcTxQkbF+CRwdYTOYTICUZJYjzFfCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sakeven/Selected/releases/download/v0.2.8/Selected31-30.delta" sparkle:deltaFrom="30" length="2837114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5dHdEDa5cmLOepOjR8GF9n32AVL4/8dvN3dc+C6wBI3KW4z9tW3AKSP0fWFSHmc6y1nfp28KgvkgEAP4eAnCDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.7</title>
             <pubDate>Mon, 07 Sep 2026 23:36:10 +0800</pubDate>
             <sparkle:version>30</sparkle:version>
